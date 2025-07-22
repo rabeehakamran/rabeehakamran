@@ -20,4 +20,4 @@ I'm **Rabeeha Kamran** — a SE student, a creative coder, and a newly minted op
   - LinkedIn: [Rabeeha Kamran](https://www.linkedin.com/in/rabeeha-kamran)
   
 - ⚡ Fun fact:
-  - I read, write  and I’m obsessed with making even my code look cute 🌸
+  - I read, write  and I’m obsessed with making  my notes and code look cute 🌸
