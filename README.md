@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**rabeehakamran/rabeehakamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rabeeha Kamran** — a SE student, a creative coder, and a newly minted open source contributor ✨
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - An OCR project using CNN-LSTM for handwritten text recognition ✍️
+    
+- 🌱 I’m currently learning:
+  - Machine Learning and Computer Vision 📸
+  - ReactJS for frontend web development 🌐
+  - Git & GitHub for version control and collaboration 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on beginner-friendly open source projects (Python, AI, or creative tech) 🤝
+ 
+- 💬 Ask me about:
+  - Python basics, OpenCV, NumPy, Matplotlib
+  - How I organize my life using cute planners + tech ✨
+
+- 📫 How to reach me:
+  - LinkedIn: [Rabeeha Kamran](https://www.linkedin.com/in/rabeeha-kamran)
+  
+- ⚡ Fun fact:
+  - I read, write  and I’m obsessed with making even my code look cute 🌸
