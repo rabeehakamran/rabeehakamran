@@ -5,7 +5,6 @@ I'm **Rabeeha Kamran** — a SE student and a creative coder.
 - 🌱 I’m currently learning:
   - Machine Learning and Computer Vision 📸
   - ReactJS for frontend web development 🌐
-  - Git & GitHub for version control and collaboration 🚀
 
 -  I’m looking to collaborate on beginner-friendly open source projects (Python, AI, or creative tech) 🤝
  
