@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rabeeha
 
-I'm **Rabeeha Kamran** — a SE student and a creative coder.
-    
-- 🌱 I’m currently learning:
-  - Machine Learning and Computer Vision 📸
-  - ReactJS for frontend web development 🌐
+Software Engineering student at FAST-NUCES with a thing for Computer Vision and AI. I like building systems that can *see* — and occasionally breaking them in interesting ways.
 
--  I’m looking to collaborate on beginner-friendly open source projects (Python, AI, or creative tech) 🤝
- 
-- 💬 Ask me about:
-  - Python basics, OpenCV, NumPy, Matplotlib
-  - How I organize my life using planners + tech ✨
+- Currently working on an end-to-end ANPR system (YOLOv8 + FastAPI + Next.js)
+- Interested in anything that makes me go *"wait, AI can do THAT?"*
+- Also into graphic design, because creativity shouldn't stop at code
 
-- 📫 How to reach me:
-  - LinkedIn: [Rabeeha Kamran](https://www.linkedin.com/in/rabeeha-kamran)
+---
+
+**CV & ML:** Python · OpenCV · MediaPipe · YOLOv8 · EasyOCR · NumPy  
+**Backend:** FastAPI · SQLAlchemy · SQLite  
+**Frontend:** Next.js · React · Tailwind CSS  
+**Tools:** Git · n8n · Jupyter
+
+---
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/rabeeha-kamran)
